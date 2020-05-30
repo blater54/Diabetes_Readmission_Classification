@@ -1,6 +1,6 @@
 # Summary
 
-The average age of people having diabetes is 45 years old. On this project, I want to see classify if meidcation provided by doctors will reduce patients going back to the hospital. The data has over 80,000 entries and the models performed are Decision Tree and Random Forest.
+The average age of people having diabetes is 45 years old. On this project, I want to see classify if medication provided by doctors will reduce patients going back to the hospital. The data has over 80,000 entries and the models performed are Decision Tree and Random Forest.
 
 # Exploratory Data Analysis
 ![](images/Num_procedures.png)
